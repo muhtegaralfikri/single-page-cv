@@ -4,7 +4,7 @@ A professional, single-page curriculum vitae (CV) built with semantic HTML.
 
 ## Project URL
 
-https://github.com/muhtegaralfikri/single-page-cv
+[https://github.com/muhtegaralfikri/single-page-cv](https://github.com/muhtegaralfikri/single-page-cv)
 
 ## Features
 
@@ -30,7 +30,9 @@ Simply open `index.html` in your web browser to view the CV.
 
 ## Project Requirements
 
-This project is part of the Roadmap.sh HTML track and demonstrates:
+This project is a solution to the [Single Page CV](https://roadmap.sh/projects/single-page-cv) challenge on [roadmap.sh](https://roadmap.sh).
+
+It demonstrates:
 - Semantic HTML structure
 - Single-page layout
 - SEO meta tags

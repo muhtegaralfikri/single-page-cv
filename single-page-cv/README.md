@@ -13,12 +13,11 @@ https://github.com/muhtegaralfikri/single-page-cv
 - Open Graph tags for social media sharing
 - Favicon support
 - Sections for:
-  - Professional Summary
-  - Skills (Programming Languages, Frameworks, Tools)
+  - Header (Your Name, Role, Contact)
+  - Skills
   - Education
-  - Career History
-  - Projects
-  - Certifications
+  - Experience
+  - Across the Internet (Social Links)
 
 ## Tech Stack
 
@@ -27,7 +26,7 @@ https://github.com/muhtegaralfikri/single-page-cv
 
 ## Getting Started
 
-Simply open `cv.html` in your web browser to view the CV.
+Simply open `index.html` in your web browser to view the CV.
 
 ## Project Requirements
 
